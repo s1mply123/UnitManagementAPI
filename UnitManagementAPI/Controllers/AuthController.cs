@@ -7,6 +7,8 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
 using UnitManagementAPI.Data;
+using UnitManagementAPI.DTOs;
+using UnitManagementAPI.Models;
 using UnitManagementAPI.Services.UserService;
 
 namespace UnitManagementAPI.Controllers

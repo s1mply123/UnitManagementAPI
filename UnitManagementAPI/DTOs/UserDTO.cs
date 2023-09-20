@@ -1,4 +1,4 @@
-﻿namespace UnitManagementAPI
+﻿namespace UnitManagementAPI.DTOs
 {
     public class UserDTO
     {

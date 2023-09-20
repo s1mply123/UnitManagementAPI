@@ -1,4 +1,4 @@
-﻿namespace UnitManagementAPI
+﻿namespace UnitManagementAPI.Models
 {
     public class Unit
     {

@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using UnitManagementAPI.Data;
+using UnitManagementAPI.Models;
 
 namespace UnitManagementAPI.Controllers
 {
